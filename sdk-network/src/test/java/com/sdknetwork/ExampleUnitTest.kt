@@ -1,4 +1,4 @@
-package com.arctouch.codechallenge
+package com.sdknetwork
 
 import org.junit.Test
 
